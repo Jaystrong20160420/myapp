@@ -1,0 +1,19 @@
+{
+    "name": "wangzj/myapp",
+    "description": "composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wangzj\\Myapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay5",
+            "email": "1392320795@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
